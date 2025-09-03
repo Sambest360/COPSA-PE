@@ -1,0 +1,20 @@
+{
+  "name": "copsa-pe",
+  "version": "1.0.0",
+  "description": "Church of Pentecost South Africa - Port Elizabeth District",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sambest360/COPSA-PE.git"
+  },
+  "keywords": ["church", "pentecost", "south africa", "port elizabeth"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sambest360/COPSA-PE/issues"
+  },
+  "homepage": "https://github.com/Sambest360/COPSA-PE#readme"
+}
